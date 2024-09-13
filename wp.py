@@ -22,7 +22,7 @@ if len(sys.argv) <= 1:
     print ' ||        \===\       || '
     print '  \===/   ~====//      || '
     print ''
-    print '   Cyber Sederhana Team'
+    print '    Cyber Sederhana Team'
     print ''
     print ''
     print 'Options:'
