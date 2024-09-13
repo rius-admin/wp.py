@@ -17,14 +17,13 @@ def loadLst(fileName, lstName):
 
 if len(sys.argv) <= 1:
     print ' '
-    print 'wp-csteam'
-    print 'cybersederhanateam.id'
-    print 'cs-team.my.id'
     print ' '
-    print 'Cyber Sederhana Team'
+    print ' //==\\   //===~   ~======~'
+    print '||        \\==||      || '
+    print ' \\==//   ~===//      || '
+    print '   Cyber Sederhana Team'
     print ''
     print ''
-    print ' '
     print 'Options:'
     print '-h URL'
     print '-U file contain list user'
@@ -38,18 +37,20 @@ if len(sys.argv) <= 1:
     print ''
     print 'python2 wp.py -h https://target.com/wp-login.php -u admin -P slot.txt'
     print ' '
+    print ' '
     sys.exit()
    
 
-print 'wp-csteam'
-print 'cs-team.my.id'
+print ' '
 print 'support cybersederhanateam.id'
+print ' '
+print '< prosesi >'
 
 #
 #define variables
 #
 
-print ""
+print ''
 
 url = ''
 wordlist = ''
