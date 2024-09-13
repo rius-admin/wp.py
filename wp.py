@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utTeam''*-
+# -*- coding: utf-8 -*-
 import sys
 import urllib2, urllib
 import cookielib
