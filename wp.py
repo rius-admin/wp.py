@@ -18,7 +18,7 @@ def loadLst(fileName, lstName):
 if len(sys.argv) <= 1:
     print ' '
     print 'wp-csteam'
-    print 'cybersederhanateam.id
+    print 'cybersederhanateam.id'
     print 'cs-team.my.id'
     print ' '
     print 'Cyber Sederhana Team'
