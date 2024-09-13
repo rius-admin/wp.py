@@ -45,7 +45,7 @@ if len(sys.argv) <= 1:
 print ' '
 print 'support cybersederhanateam.id'
 print ' '
-print '< prosesi >'
+print '< proses >'
 
 #
 #define variables
@@ -245,6 +245,6 @@ try:
     print result
     sys.exit()
 except urllib2.URLError, e:
-    print "\n\t[!] Session Cancelled; Error occured. Check internet settings"
+    print "\n\t[!] Sepertinya ada yg ga beres < error > "
 except (KeyboardInterrupt):
-    print "\n\t[!] Session cancelled"
+    print "\n\t[!] Session selesai"
