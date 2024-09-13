@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+# -*- coding: utTeam''*-
 import sys
 import urllib2, urllib
 import cookielib
@@ -16,12 +16,12 @@ def loadLst(fileName, lstName):
     f.close()
 
 if len(sys.argv) <= 1:
+    print 'wp-csteam'
+    print 'cs-team.my.id'
     print 'Cyber Sederhana Team'
+    print ''
+    print 'Syntax: python wp-csteam [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
     print ' '
-    print 'By Mr.Rius'
-    print ''
-    print 'Syntax: python WP-crack [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
-    print ''
     print 'Options:'
     print '-h URL'
     print '-U file contain list user'
@@ -33,13 +33,12 @@ if len(sys.argv) <= 1:
     print '-g user-agent - default: "Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0"'
     print '-x use proxy | ex: 127.0.0.1:1234'
     print ''
-    print 'Examples: python wpbf.py -h http://test.com/wp-login.php -u admin -P password.txt'
+    print 'Examples: python WP-crack.py -h http://test.com/wp-login.php -u admin -P password.txt'
     sys.exit()
-print ' //==~   /===~  ~======~ '   
-print '||       \\=||     ||    ' 
-print ' \\==~   ~===/     ||    '          
-print 'Github: https://github.com/rius-admin'
-print 'Author: Mr.Rius'
+
+print 'wp-csteam'
+print 'cs-team.my.id'
+print 'support cybersederhanateam.id'
 
 #
 #define variables
