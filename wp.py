@@ -18,9 +18,9 @@ def loadLst(fileName, lstName):
 if len(sys.argv) <= 1:
     print ' '
     print ' '
-    print ' //===\\   //====~   ~======~'
-    print '||         \\===||      || '
-    print ' \\===//   ~====//      || '
+    print '  /===\\   //====~   ~======~'
+    print ' ||         \===\       || '
+    print '  \===//   ~====//      || '
     print ''
     print '   Cyber Sederhana Team'
     print ''
