@@ -16,11 +16,14 @@ def loadLst(fileName, lstName):
     f.close()
 
 if len(sys.argv) <= 1:
+    print ' '
     print 'wp-csteam'
+    print 'cybersederhanateam.id
     print 'cs-team.my.id'
+    print ' '
     print 'Cyber Sederhana Team'
     print ''
-    print 'Syntax: python wp-csteam [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
+    print ''
     print ' '
     print 'Options:'
     print '-h URL'
@@ -33,8 +36,10 @@ if len(sys.argv) <= 1:
     print '-g user-agent - default: "Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0"'
     print '-x use proxy | ex: 127.0.0.1:1234'
     print ''
-    print 'Examples: python WP-crack.py -h http://test.com/wp-login.php -u admin -P password.txt'
+    print 'python2 wp.py -h https://target.com/wp-login.php -u admin -P slot.txt'
+    print ' '
     sys.exit()
+   
 
 print 'wp-csteam'
 print 'cs-team.my.id'
