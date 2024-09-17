@@ -2,11 +2,11 @@
 # pkg upgrade
 # pkg install python
 # pkg install python2
-# pkg instll pip
+# pkg install pip
 # pip install requests
 # pkg install git
-# git clone https://github.com/rius-admin/wp
+# git clone https://github.com/rius-admin/wp.py
 # ls
-# cd wp
+# cd wp.py
 # ls
 # python2 wp.py
