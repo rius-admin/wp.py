@@ -25,7 +25,6 @@ admin!?
 321
 21
 editor
-adm/admin/user
 kontribusi
 kontributor
 jurnalis
