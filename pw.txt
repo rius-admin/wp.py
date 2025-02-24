@@ -26,6 +26,7 @@ admin!?
 21
 ??
 editor
+#admin-super@1234!?
 kontribusi
 kontributor
 jurnalis
