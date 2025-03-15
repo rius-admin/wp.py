@@ -1,3 +1,5 @@
+( wp.py adalah tools yang dibuat untuk uji coba kerentanan vuln login website CMS WordPress )
+
 # pkg update
 # pkg upgrade
 # pkg install python
